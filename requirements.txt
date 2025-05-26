@@ -1,0 +1,6 @@
+flask==3.0.2
+python-nmap==0.7.1
+reportlab==4.1.0
+python-dotenv==1.0.1
+flask-wtf==1.2.1
+gunicorn==21.2.0 
